@@ -1,6 +1,6 @@
 ## Basic Configuration
 
-baseurl = "rbias.netlify.com" 
+baseurl = "https://rbias.netlify.com" 
 builddrafts = false
 canonifyurls = false
 languageCode = "en-US"
