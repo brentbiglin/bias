@@ -35,6 +35,6 @@ weight = 5
 
 # Biography
 
-Lena Smith is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Hello from the University of Texas at Austin School of Information. In January, 2003, I "came in from the cold," returning to academia after half a lifetime in industry as a usability practitioner and manager. I attend my post enthusiastically, eager to explore the theoretical underpinnings of usability, help develop a new generation of HCI researchers and usability/UX experts, and further promote the design and development of technology that takes into account the capabilities of human users.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+I welcome your call, or email, if you want to talk about human information processing, usability practice, usability education, HCI design, cognitive psychology, baseball statistics, or bonefishing on the flats of Biscayne Bay.
