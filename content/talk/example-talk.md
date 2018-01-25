@@ -4,10 +4,10 @@ date = 2017-01-01T00:00:00  # Schedule page publish date.
 title = "Example Talk"
 time_start = 2030-06-01T13:00:00
 time_end = 2030-06-01T15:00:00
-abstract = ""
+abstract = "Last spring I hosted, with the considerable help of Tobias Eisenschenk, a visiting scholar/Master’s student from Germany, the first annual UT-Austin Workshop on the Science of UX. Bias, R., Eisenschenk, T., Butler, S. (2017). Selecting a UX design method: Making small UX data big. User Experience Magazine, 17(4)."
 abstract_short = ""
 event = "Academic Theme Conference"
-event_url = "https://example.org"
+event_url = "http://uxpamagazine.org/selecting-a-ux-design-method/"
 location = "London, United Kingdom"
 
 # Is this a selected talk? (true/false)

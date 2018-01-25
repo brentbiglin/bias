@@ -48,11 +48,11 @@ defaultContentLanguageInSubdir = false
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
   avatar = "portrait.png"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
-  email = "test@example.org"
-  address = "Building 1 Room 1, Stanford University, California, 90210, USA"
-  office_hours = "Monday 10:00 to 13:00 or email for appointment"
-  phone = "888 888 88 88"
-  skype = "echo123"
+  email = "rbias@ischool.utexas.edu"
+  address = "School of Information, University of Texas at Austin, Austin, 78741, USA"
+  office_hours = "Monday 12:00pm to 13:00 or email for appointment"
+  phone = "(512) 471-7046"
+  skype = ""
   telegram = ""
 
   # Enable Keybase in Contact section by entering your keybase.io username.
@@ -192,7 +192,7 @@ defaultContentLanguageInSubdir = false
   [[params.social]]
     icon = "envelope"
     icon_pack = "fa"
-    link = "mailto:test@example.org"
+    link = "mailto:rbias@ischool.utexas.edu"
 
   [[params.social]]
     icon = "twitter"
@@ -215,35 +215,43 @@ defaultContentLanguageInSubdir = false
 #     desired widget in your `content/home/` folder.
 #   The weight parameter defines the order that the links will appear in.
 
+
+#ADDING BIASES HEADERS TO THE NAV
 [[menu.main]]
   name = "Home"
   url = "#about"
   weight = 1
 
 [[menu.main]]
-  name = "Publications"
+  name = "Philosophy"
   url = "#publications_selected"
   weight = 2
 
 [[menu.main]]
-  name = "Posts"
-  url = "#posts"
+  name = "Teaching"
+  url = "#teaching"
   weight = 3
 
 [[menu.main]]
-  name = "Projects"
-  url = "#projects"
+  name = "Research"
+  url = "#publications"
   weight = 4
 
 [[menu.main]]
-  name = "Teaching"
-  url = "#teaching"
+  name = "Service"
+  url = "#service"
   weight = 5
+
+[[menu.main]]
+  name = "Consulting"
+  url = "#consulting"
+  weight = 6
 
 [[menu.main]]
   name = "Contact"
   url = "#contact"
-  weight = 6
+  weight = 7
+
 
 # Taxonomies.
 [taxonomies]
