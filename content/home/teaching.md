@@ -30,40 +30,40 @@ weight = 21
 ### Previous Courses
 #### Graduate Courses
 
-| Class                                                             | School                      |
-|-------------------------------------------------------------------|-----------------------------|
-| Usability and User-Centered Design                                | Universidade Nova De Lisboa |
-| Software Usability Engineering                                    | UT-Austin                   |
-| Information Architecture and Usability                            | UT-Austin                   |
-| Introduction to Research Methods for Information Studies          | UT-Austin                   |
-| Knowing: Acquiring and Sharing Information in the Information Age | UT-Austin                   |
-| Introduction to Usability                                         | UT-Austin                   |
-| Advanced Usability                                                | UT-Austin                   |
-| Seeking Funding for Information Studies                           | UT-Austin                   |
-| Doctoral Research and Theory                                      | UT-Austin                   |
+| Class                                                             | School                              |
+|-------------------------------------------------------------------|-------------------------------------|
+| Usability and User-Centered Design                                | Universidade Nova De Lisboa         |
+| Software Usability Engineering                                    | UT-Austin                           |
+| Information Architecture and Usability                            | UT-Austin                           |
+| Introduction to Research Methods for Information Studies          | UT-Austin                           |
+| Knowing: Acquiring and Sharing Information in the Information Age | UT-Austin                           |
+| Introduction to Usability                                         | UT-Austin                           |
+| Advanced Usability                                                | UT-Austin                           |
+| Seeking Funding for Information Studies                           | UT-Austin                           |
+| Doctoral Research and Theory                                      | UT-Austin                           |
 
 
 #### Undergraduate Courses
 
-| Class                              | School                   |
-|------------------------------------|--------------------------|
-| Usability and User-Centered Design | UT-Austin                |
-| Introductory Psychology            | UT-Austin                |
-| Psychological Methods              | UT-Austin                |
-| Introductory Statistics            | UT-Austin                |
-| Psychology of Language             | UT-Austin                |
-| Perception and Cognition           | Huston-Tillotson College |
-| Psychology of Computers            | Huston-Tillotson College |
-| Human Factors                      | Texas State University   |
+| Class                                                            | School                               |
+|------------------------------------------------------------------|--------------------------------------|
+| Usability and User-Centered Design                               | UT-Austin                            |
+| Introductory Psychology                                          | UT-Austin                            |
+| Psychological Methods                                            | UT-Austin                            |
+| Introductory Statistics                                          | UT-Austin                            |
+| Psychology of Language                                           | UT-Austin                            |
+| Perception and Cognition                                         | Huston-Tillotson College             |
+| Psychology of Computers                                          | Huston-Tillotson College             |
+| Human Factors                                                    | Texas State University               |
 
 
 #### Continuing Education
 
-| Class                              | School                               |
-|------------------------------------|--------------------------------------|
-| Usability                          | UT-Austin                            |
-| HCI Design and Evaluation          | Rice University                      |
-| Introductory Psychology            | UT-Austin, Extension (Correspondence)|
+| Class                                                            | School                               |
+|------------------------------------------------------------------|--------------------------------------|
+| Usability                                                        | UT-Austin                            |
+| HCI Design and Evaluation                                        | Rice University                      |
+| Introductory Psychology                                          | UT-Austin, Extension (Correspondence)|
 
 
 #### Industry
