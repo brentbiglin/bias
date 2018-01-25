@@ -21,11 +21,6 @@ I also conduct independent usability consulting, providing HCI design, UI evalua
 
 Companies served include a wide range of companies, from corporate giants like IBM and Dell, to Internet companies like Forgent, to public utilities companies like CPS Energy, to educational efforts like the UT Health Science Center library web site and the University of Texas Distance Education Center.
 
-
-### fMRI as an Information Studies Tool
-
-We have published the dissertation work of my doctoral student, Hans Huang, wherein he discovered user interface icons to show the same pattern of brain activity as pictures, and not (as we had hypothesized) as Chinese logograms. Huang, S.-C., Bias, R.G., & Schnyer, D. (2015). How are icons processed by the brain? Neuroimaging measures of four types of visual stimuli used in information systems. Journal of the Association of Information Science and Technology, 66(4), 702-720.
-
 ### Methodology
 
 * Requirements gathering and prioritization
@@ -44,6 +39,6 @@ We have published the dissertation work of my doctoral student, Hans Huang, wher
 
 ### Creative Ideas
 
-* Usability on spec - If you think you don't have the money to invest in usability engineering, I will offer you my services for no money up front, but for a small percentage of the resultant savings or increased revenue, to be calculated in a way we both agree on in advance.
+* Usability on Spec - If you think you don't have the money to invest in usability engineering, I will offer you my services for no money up front, but for a small percentage of the resultant savings or increased revenue, to be calculated in a way we both agree on in advance.
 
-* Remote mentoring - Do you have a young usability team that would benefit from a more experienced person reviewing their test plans and test reports, making recommendations regarding organizational placement, or advising on how to get the best bang for their usability buck? I would be happy to serve as that person, based on primarily electronic contacts.
+* Remote Mentoring - Do you have a young usability team that would benefit from a more experienced person reviewing their test plans and test reports, making recommendations regarding organizational placement, or advising on how to get the best bang for their usability buck? I would be happy to serve as that person, based on primarily electronic contacts.
