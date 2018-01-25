@@ -224,17 +224,17 @@ defaultContentLanguageInSubdir = false
 
 [[menu.main]]
   name = "Philosophy"
-  url = "#publications_selected"
+  url = "#philosophy"
   weight = 2
+
+[[menu.main]]
+  name = "Research"
+  url = "#research"
+  weight = 3
 
 [[menu.main]]
   name = "Teaching"
   url = "#teaching"
-  weight = 3
-
-[[menu.main]]
-  name = "Research"
-  url = "#publications"
   weight = 4
 
 [[menu.main]]
